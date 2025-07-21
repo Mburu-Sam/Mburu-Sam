@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Sam Mburu
 
-<!--
-**Mburu-Sam/Mburu-Sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student  
+💻 Backend Developer | 🎥 Video Editor | 📈 Digital Marketer  
+🌍 Based in Kenya | 🔧 Django • Python • SEO • Ads Expert
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate tech creative blending backend development with digital strategy. Whether it's building APIs with Django, editing compelling video content, or running high-converting Google Ads, I thrive at the intersection of code and creativity.
+
+---
