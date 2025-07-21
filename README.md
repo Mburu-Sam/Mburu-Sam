@@ -2,7 +2,7 @@
 
 🎓 Information Technology Student  
 💻 Backend Developer | 🎥 Video Editor | 📈 Digital Marketer  
-🌍 Based in Kenya | 🔧 Django • Python • SEO • Ads Expert
+🌍 Based in Kenya | 🔧 Django • Python  • Graphics design
 
 ---
 
