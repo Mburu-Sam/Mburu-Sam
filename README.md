@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sam Mburu
+# 👋 Hi, I'm Samwel Mburu
 
 🎓 Information Technology Student  
 💻 Backend Developer | 🎥 Video Editor | 📈 Digital Marketer  
